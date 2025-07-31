@@ -34,9 +34,7 @@ long long binomial(int a, int b) {
 }
 
 int main() {
-    ios::sync_with_stdio(false);
-    cin.tie(0);
-
+    
     precompute();
 
     int n;
